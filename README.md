@@ -2,6 +2,10 @@
 
 Google Sheets™ add-on for interacting with EVE ESI API.  GESI provides an EVE Online SSO flow to authorize your character(s), as well as a wrapper around ESI in order to access your EVE Online data within Google Sheets™; much like `=importXML()` worked with the old XML API.
 
+## mkocus fork
+
+This fork only declares skills and skills queue scopes. This is done by purpose in order to create Google Spreadsheets for listing corporate skills, without requiring everything else.
+
 ## Setup:
 
 1. Install the add-on.  From within Google Sheets™: Go to `Add-Ons` => `Get add-ons` => Search for `GESI`, click on it, and click `Install`.
